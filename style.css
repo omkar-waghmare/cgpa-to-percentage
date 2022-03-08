@@ -41,8 +41,8 @@ body{
 
 .wrapper .mainbox{
   background-color: #E8EAF6;
-  padding: 25px;
-  margin: 50px 0px 5px;
+  padding: 15px;
+  margin: 10px 0px 5px;
   border: 4px solid #1A237E;
   border-radius: 5px;
 }
@@ -61,22 +61,22 @@ body{
 
 .wrapper .mainbox .input_row{
   display: flex;
-  padding: 20px;
-}
-
-.wrapper .mainbox .input_row .input_label{
-  width: 90%;
   padding: 10px;
 }
 
+.wrapper .mainbox .input_row .input_label{
+  width: 35%;
+  padding: 4px;
+}
+
 .wrapper .mainbox .input_row .input_box{
-  width: 100%;
+  width: 30%;
 }
 
 .wrapper .mainbox .input_row .input_box input{
-  padding: 6px;
+  padding: 4px;
   border: 2px solid #777;
-  width: 60px;
+  width: 65px;
   border-radius: 5px;
 }
 
